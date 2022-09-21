@@ -1,0 +1,103 @@
+.background {
+    text-align: center;
+    margin: 20px auto;
+    border-radius: 20px;
+    background-color: rgb(220, 220, 220);
+    border: 5px solid rgb(0, 0, 0);
+    padding: 50px 25px;
+    height: 50vw;
+    width:  50vw;
+    font-family: 'Oswald', sans-serif;
+}
+
+.background {
+    padding: 5px 5px;
+    height: 35vh;
+    color: rgb(0, 0, 0);
+}
+
+.by {
+   color: rgb(45, 76, 76);
+   height: 5vh;
+   font-weight: lighter;
+}
+
+.span {
+    color:rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.one {
+    text-align: center;
+    margin: 20px auto;
+    border-radius: 20px;
+    border: 5px solid rgb(0, 0, 0);
+    border-spacing: 1px;
+    border-style: groove;
+    width: 40vw;
+    background-color: rgb(220, 220, 220);
+    font-family: 'Oswald', sans-serif;
+}
+
+.img1 {
+    border: 3px solid black;
+}
+
+.description1 {
+    font-size: 22px;
+}
+
+.two{
+   text-align: center;
+   margin: 20px auto;
+   border: 5px solid black;
+   border-spacing: 1px;
+   border-radius: 20px;
+   border-style: groove;
+   width: 40vw;
+   background-color: gainsboro;
+   font-family: 'Oswald', sans-serif;
+}
+
+.beta{
+    font-size: 40px;
+    
+}
+
+.img2 {
+    width: 38vw;
+    border: 3px solid black;
+}
+
+.description2 {
+    font-size: 22px;
+}
+
+.three {
+    text-align: center;
+    margin: 20px auto;
+    border: 5px solid black;
+    border-spacing: 1px;
+   border-radius: 20px;
+   border-style: groove;
+   width: 40vw;
+   background-color: gainsboro;
+   font-family: 'Oswald', sans-serif;
+}
+
+.img3 {
+    width: 75vh;
+    border: 3px solid black;
+}
+
+.description3 {
+    font-weight: bold;
+    font-size: 22px;
+  
+}
+
+body {
+    background-color: slategrey;
+    color: black;
+    font-size: 25px;
+
